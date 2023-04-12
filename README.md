@@ -1,3 +1,5 @@
+# Deprecated: старый баян
+
 # FABSTATE
 Менеджер состояния форм для AngularJS
 
